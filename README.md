@@ -15,7 +15,7 @@
   - ···
 - Linux
   - Debian/Ubuntu
-  - Federal/Centos/RHEL/RockyLinux
+  - Federal/Centos/RHEL/Rocky Linux
   - ···
 - 数据库
     - SQL
@@ -27,20 +27,25 @@
   - Docker
   - K8s
   - ···
-- 应用领域
-  - Web 开发
+- Web 开发
+  - 前端
     - HTML
     - Css/Sass/Less/Scss
     - JavaScript/TypeScript
     - Vue/React
     - ···
-  - 人工智能
-    - NLP/CV
-    - PyTorch/Tensorflow/PaddlePaddle/MindSpore
-    - FNN/CNN/RNN/LSTM/TCN/Transformer/GAN/GNN/Diffusion
+  - 后端
+    - Gin (Go)
+    - Spring Framework (Java)
+    - Django/Flask (Python)
     - ···
-  - 区块链
-    - Ethereum/Hyperledger
-    - ···
+- 人工智能
+  - NLP/CV
+  - PyTorch/Tensorflow/PaddlePaddle/MindSpore
+  - FNN/CNN/RNN/LSTM/TCN/Transformer/GAN/GNN/Diffusion
+  - ···
+- 区块链
+  - Ethereum/Hyperledger
+  - ···
 - 其它
     - ···
