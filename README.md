@@ -13,6 +13,20 @@
   - C/C++
   - Python
   - ···
+- Linux
+  - Debian/Ubuntu
+  - Federal/Centos/RHEL/RockyLinux
+  - ···
+- 数据库
+    - SQL
+    - MySQL/MariaDB
+    - Redis
+    - MongoDB
+    - ···
+- 容器技术
+  - Docker
+  - K8s
+  - ···
 - 应用领域
   - Web 开发
     - HTML
@@ -26,20 +40,6 @@
     - ···
   - 区块链
     - Ethereum/Hyperledger
-    - ···
-- 容器技术
-  - Docker
-  - K8s
-  - ···
-- Linux
-  - Debian/Ubuntu
-  - Federal/Centos/RHEL/RockyLinux
-  - ···
-- 数据库
-    - SQL
-    - MySQL/MariaDB
-    - Redis
-    - MongoDB
     - ···
 - 其它
     - ···
