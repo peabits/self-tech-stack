@@ -37,6 +37,7 @@
   - 人工智能
     - NLP/CV
     - PyTorch/Tensorflow/PaddlePaddle/MindSpore
+    - FNN/CNN/RNN/LSTM/TCN/Transformer/GAN/GNN/Diffusion
     - ···
   - 区块链
     - Ethereum/Hyperledger
