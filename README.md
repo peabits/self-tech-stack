@@ -33,8 +33,13 @@
   - ···
 - Linux
   - Debian/Ubuntu
-  - Federal/Centos/RHEL
-  - RockyLinux
+  - Federal/Centos/RHEL/RockyLinux
   - ···
+- 数据库
+    - SQL
+    - MySQL/MariaDB
+    - Redis
+    - MongoDB
+    - ···
 - 其它
     - ···
