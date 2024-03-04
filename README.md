@@ -1,1 +1,40 @@
-# self-tech-stack
+# Self Tech Stack
+
+- 计算机基础
+  - 数据结构与算法
+  - 计算机网络
+  - 操作系统
+  - 数据库
+  - ···
+- 编程语言
+  - Go
+  - Rust
+  - Java
+  - C/C++
+  - Python
+  - ···
+- 应用领域
+  - Web 开发
+    - HTML
+    - Css/Sass/Less/Scss
+    - JavaScript/TypeScript
+    - Vue/React
+    - ···
+  - 人工智能
+    - NLP/CV
+    - PyTorch/Tensorflow/PaddlePaddle/MindSpore
+    - ···
+  - 区块链
+    - Ethereum/Hyperledger
+    - ···
+- 容器技术
+  - Docker
+  - K8s
+  - ···
+- Linux
+  - Debian/Ubuntu
+  - Federal/Centos/RHEL
+  - RockyLinux
+  - ···
+- 其它
+    - ···
